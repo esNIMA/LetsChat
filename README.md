@@ -1,5 +1,5 @@
 
-# **LetsChat - Real-time Chat Application**
+# **Let's Chat! - Real-time Chat Application**
 
 LetsChat is a real-time chat application built using **Django** on the backend and **React** on the frontend. The app features user authentication with **JWT tokens** and real-time messaging via **WebSocket connections** using **Django Channels**. It allows users to sign up, log in, and send real-time messages in a chat room while securely authenticated. Each user has their own unique color in the chat.
 
